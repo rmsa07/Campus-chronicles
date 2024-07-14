@@ -1,8 +1,10 @@
-Campus Chronicle Android App 
+
+<mark>Campus Chronicle Android App</mark>
 
 Campus Chronicle is an Android application designed for college students to share and explore blog posts within their campus community. This app allows users to create, read, share, and comment on posts, fostering a vibrant exchange of ideas and information.
 
-Features:
+
+<mark>Features:</mark>
 
 User Authentication: Secure login and registration for users.
 
@@ -15,7 +17,8 @@ Share Posts: Share interesting posts with friends and across social media platfo
 Commenting: Engage in discussions by commenting on posts.
 
 
-Technologies Used:
+
+<mark>Technologies Used:</mark>
 
 Language: Kotlin
 
@@ -29,13 +32,13 @@ UI/UX: Material Design guidelines for a clean and intuitive interface.
 
 
 
-Getting Started:'
+
+<mark>Getting Started:'</mark>
+
 To run this project locally, follow these steps:
 
 Clone the repository from GitHub:
 
-bash
-Copy code
 git clone https://github.com/your-username/campus-chronicle.git
 
 Open the project in Android Studio.
@@ -52,8 +55,8 @@ Download the google-services.json file and place it in the app/ directory of you
 Build and run the project on an Android emulator or physical device.
 
 
-Contributing:
 
+<mark>Contributing:</mark>
 Contributions to Campus Chronicle are welcome! If you'd like to contribute, please fork the repository and create a pull request with your changes.
 
 
