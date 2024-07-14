@@ -29,7 +29,7 @@ UI/UX: Material Design guidelines for a clean and intuitive interface.
 
 
 
-Getting Started:
+Getting Started:'
 To run this project locally, follow these steps:
 
 Clone the repository from GitHub:
